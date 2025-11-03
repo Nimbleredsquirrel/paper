@@ -1,8 +1,8 @@
-# Метод двойного перевода для исправления ошибок
+# Double Translation Method for Error Correction
 
-Двойной перевод + анализ.ipynb - блокнот с кодом, в котором содержится обработка датасета предложений с ошибками, реализация функций двойного перевода для трех моделей переводчиков: GoogleTranslator, YandexTranslator и DeeplTranslator, а также примеры обработки файлов с исправленными предложениями для создания датасетов по типам ошибки.
+**Двойной перевод + анализ.ipynb** is a notebook containing code that processes a dataset of sentences with errors. It includes an implementation of double translation functions for three translation models: Google Translator, Yandex Translator, and Deepl Translator. It also provides examples of how to process files with corrected sentences to create datasets categorized by error type.
 
-#### ссылки:
-RULEC-GEC датасет - https://github.com/arozovskaya/RULEC-GEC
+#### Links:
+*   **RULEC-GEC dataset** - https://github.com/arozovskaya/RULEC-GEC
+*   **Max Match Scorer** (used for calculating metrics) - https://github.com/nusnlp/m2scorer
 
-Max Match Scorer (используется для подсчета метрик) - https://github.com/nusnlp/m2scorer
